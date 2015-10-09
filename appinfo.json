@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gzografa@gmail.com",
+    "longName": "Block_app",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Fall",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3bb71592-9079-4e51-82fb-9362b63aada5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
